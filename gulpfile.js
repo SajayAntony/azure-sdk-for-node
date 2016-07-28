@@ -33,6 +33,11 @@ var mappings = {
     'ft': 1,
     'modeler': 'CompositeSwagger'
   },
+  'containerRegistry': {
+    'dir': 'containerRegistry/lib',
+    'source': 'arm-containerregistry/2016-06-27-preview/swagger/containerregistry.json',
+    'ft': 1
+  },
   'datalake.analytics.account': {
     'dir': 'dataLake.Analytics/lib/account',
     'source': 'arm-datalake-analytics/account/2015-10-01-preview/swagger/account.json'
